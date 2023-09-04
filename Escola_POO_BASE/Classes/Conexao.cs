@@ -14,6 +14,7 @@ namespace Escola_POO_BASE.Classes
 
         #region Variáveis
 
+
         //String de Conexão                                     Informações CHUMBADAS - HardCode
         private static string _strConexao = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=EscolaN22;User ID=sa;Password=123456";
 
